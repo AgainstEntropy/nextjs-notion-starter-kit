@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
-  // bilibili: '#', // optional bilibili uid
+  bilibili: '12294062', // optional bilibili uid
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
