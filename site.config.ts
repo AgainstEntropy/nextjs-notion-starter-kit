@@ -46,11 +46,11 @@ export default siteConfig({
   //
   pageUrlOverrides: {
     '/about': '706ad43f5d93415ba3cdf7cbb4b635f3',
+    '/projects': '04da1dc3fdf34103bc72417b2f8e2ae2',
     '/blogs': '2e1daef7a5f74283b248d6f5175fd27c',
     '/tutorials': '8c9417360fca4030bc2af96537f319de',
     '/pub': '8bef4e89b5f14615b9085924be7338de',
     '/contact': '5d7f646d339446c088d715a34d3c24ab',
-
   },
   // pageUrlOverrides: null,
 
@@ -62,6 +62,10 @@ export default siteConfig({
     {
       title: 'About',
       pageId: '706ad43f5d93415ba3cdf7cbb4b635f3'
+    },
+    {
+      title: 'Projects',
+      pageId: '04da1dc3fdf34103bc72417b2f8e2ae2'
     },
     {
       title: 'Blogs',
